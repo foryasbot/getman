@@ -11,7 +11,7 @@ API client · HTTPS capture · SSH & SCP · Network diagnostics · Encoders
 
 ## Demo
 [![Watch the demo](assets/demo-cover.png)](https://youtu.be/6sN9crbNbtE)
-Watch on [YouTube](https://youtu.be/YOUR_VIDEO_ID) · [get-man.app](https://get-man.app)
+Watch on [YouTube](https://youtu.be/6sN9crbNbtE) · [get-man.app](https://get-man.app)
 
 ---
 
