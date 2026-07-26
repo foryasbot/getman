@@ -72,7 +72,17 @@ Downloads: [https://get-man.app](https://get-man.app)
 ---
 ## Demo
 
-https://github.com/foryasbot/getman/assets/playground-demo.mp4
+<video 
+  controls 
+  preload="metadata" 
+  poster="assets/demo-poster.jpg"
+  width="100%" 
+  style="max-width: 800px; border-radius: 8px; margin: 16px 0; background: #000;"
+>
+  <source src="assets/playground-demo.mp4" type="video/mp4">
+  <track kind="subtitles" src="assets/subtitles.vtt" srclang="fa" label="Persian">
+  مرورگر شما از پخش ویدیو پشتیبانی نمی‌کند.
+</video>
 
 ---
 
