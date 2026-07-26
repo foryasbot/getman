@@ -53,7 +53,7 @@ Getman keeps your work **on your machine** — fast UI, SQLite storage, private 
 | Platform | Status |
 |----------|--------|
 | **macOS** (universal) | Supported |
-| **Windows** | Comin Soon |
+| **Windows** | Coming Soon |
 | **Linux** | Coming Soon |
 
 Downloads: [https://get-man.app](https://get-man.app)
