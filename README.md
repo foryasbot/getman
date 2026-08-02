@@ -7,7 +7,7 @@ Offline-first desktop toolkit: API client, HTTPS capture, SSH, network tools, Dr
 API client · HTTPS capture · SSH & SCP · Network diagnostics · Encoders · Dropfile · Teams  
 - one local desktop app instead of Postman + Proxyman + Termius.
 
-[Website](https://get-man.app) · [Download](https://get-man.app) · [Pricing](https://get-man.app/#pricing)
+[Website](https://get-man.app) · [Download](https://github.com/foryasbot/getman/releases) · [Pricing](https://get-man.app/#pricing)
 
 ---
 
