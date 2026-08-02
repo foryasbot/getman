@@ -1,4 +1,4 @@
-# Getman Full Developer Tools
+# Getman - Full Developer Tools
 
 Offline-first desktop toolkit: API client, HTTPS capture, SSH, network tools, Dropfile, and Teams - fewer apps, private by default.
 
