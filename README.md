@@ -8,8 +8,6 @@ API client · HTTPS capture · SSH & SCP · Network diagnostics · Encoders · D
 [Website](https://get-man.app) · [Download](https://github.com/foryasbot/getman/releases) · [Pricing](https://get-man.app/#pricing)
 
 ---
-<a href="assets/playground-demo.mp4"><img src="assets/demo-cover.png" alt="Offline-first desktop toolkit: API client, HTTPS capture, SSH, network tools, Dropfile, and Teams - fewer apps, private by default." width="100%" /></a>
-[Watch the MP4](assets/playground-demo.mp4)
 ## Demo
 [![Watch the demo](assets/demo.gif)](https://youtu.be/6sN9crbNbtE)
 Watch on [YouTube](https://youtu.be/6sN9crbNbtE) · [get-man.app](https://get-man.app)
